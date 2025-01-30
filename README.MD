@@ -21,7 +21,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | crie um título de um ebook sobre o tema de ciência de dados e geoprocessamento, dentro do nicho de programação e subnicho de Python; o título deve ser impactante e curto, e tenha uma temática de ficção científica inspirada no livro Fundação, de Asimov. Liste 5 variações de títulos.                                                        |
+|  título  | Crie um título de um ebook sobre o tema de ciência de dados e geoprocessamento, dentro do nicho de programação e subnicho de Python; o título deve ser impactante e curto, e tenha uma temática de ficção científica inspirada no livro Fundação, de Asimov. Liste 5 variações de títulos.                                                        |
 | conteúdo | Faça um texto para ebook, com foco em ciência de dados combinada com geoprocessamento, abordando a utilização de linguagem Python para viabilizar a interface entre as duas áreas de conhecimento, e também as possibilidades de customização do programa Quantum GIS utilizando códigos em Python. |
 
 
@@ -45,5 +45,3 @@ Midjourney：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
